@@ -7,7 +7,7 @@ In my developer journey, I have touched on typescript, performance optimizations
 ### 💼 About Me
 - Currently working on: `bantaybasura`
 - Currently handling a small team of friends to develop applications
-- Learning: **FastAPI**, **React Native**, **Machine Learning**, **making a good-looking README profile**
+- Learning: **FastAPI**, **React Native**, **Machine Learning**, **Laravel**, and **making a good-looking README profile**
 
 ### 🛠️ Tech Stack
 - **Frontend:** React, Next.js, Vue
@@ -15,7 +15,7 @@ In my developer journey, I have touched on typescript, performance optimizations
 - **Backend:** Codeigniter, FastAPI, Firebase, Supabase, Express
 - **Database:** Both SQL (MariaDB, MySQL) and NoSQL (Mongoose, Firebase)
 - **Mobile:** React Native, Expo, Flutter
-- **Languages:** Javascript, Python, C
+- **Languages:** Javascript, Python, PHP, C
 
 ### 📫 Connect with me
 - LinkedIn: [Marcel Luiz Luneza](https://linkedin.com/in/marcelluneza)
